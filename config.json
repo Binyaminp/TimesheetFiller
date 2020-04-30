@@ -1,0 +1,11 @@
+{
+	"username" : "BinyaminP",
+	"password" : "abcdef12",
+	"csv_path" : "entries.csv",
+	"url" : "https://ice.devalore.com/app/",
+	"login_url" : "login.php",
+	"timesheets_url" : "data.php?t=EmployeeTimeSheet",
+	"add_prev_timesheet_url" : "service.php?t=EmployeeTimeSheet&a=ca&sa=createPreviousTimesheet&mod=modules%3Dtime_sheets&req=%7B%22id%22%3A",
+	"add_prev_timesheet_url_sfx" : "%7D",
+	"add_entry_url" : "service.php"
+}
